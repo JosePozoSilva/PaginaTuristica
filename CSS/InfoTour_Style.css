@@ -1,16 +1,4 @@
-*{
-    background-color:rgb(255, 255, 255);
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
-body{
-    font-family: sans-serif;
-    background:#f1f1f1;
-}
-html{
-    font-size: 62.5%;
-}
+
 
 .Destino-Coroico{
     padding: 50px;
@@ -85,6 +73,85 @@ html{
 }
 .Destino-Copacabana .Text-Copacabana{
 
+    padding-top: 50px;
+    background-color: transparent;
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 80px;
+    font-size: 1.6rem;
+    text-align: justify;
+}
+
+.Destino-Sorata {
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: rgb(42, 42, 133);
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block
+
+}
+.Destino-Sorata .Title-Sorta{
+
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+.Destino-Sorata .Text-Sorata{
+
+    padding-top: 50px;
+    background-color: transparent;
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 80px;
+    font-size: 1.6rem;
+    text-align: justify;
+}
+
+.Destino-Luribay{
+    
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: rgb(42, 42, 133);
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block
+
+}
+.Destino-Luribay .Tittle-Luribay{
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+.Destino-Luribay .Text-Luribay{
+    padding-top: 50px;
+    background-color: transparent;
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 80px;
+    font-size: 1.6rem;
+    text-align: justify;
+}
+.Destino-Cotapata{
+    
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: rgb(42, 42, 133);
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block
+}
+.Destino-Cotapata .Tittle-Cotapata{
+
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.Destino-Cotapata .Text-Cotapata{
     padding-top: 50px;
     background-color: transparent;
     color: #f1f1f1;

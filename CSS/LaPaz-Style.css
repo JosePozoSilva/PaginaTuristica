@@ -1,0 +1,192 @@
+.La-Paz{
+    margin-top: 0;
+    
+    font-size: 1.5rem;
+    background-color: rgb(6, 121, 145);
+    width: 100%;
+    height: auto;
+    
+    display: inline-block
+}
+
+.La-Paz .Tittle-LaPaz{
+
+    background-color: transparent;
+    text-align: center;
+    font-size: 8rem;
+    color: papayawhip;
+}
+.La-Paz .img-LaPaz{
+
+    float: inline-end;
+    width: 100%;
+    height: auto;
+    padding: 0;
+}
+.Lugares-Turisticos .Tittle-Lugares{
+
+    background-color: transparent;
+    text-align: center;
+    font-size: 8rem;
+    background-color: rgb(241, 169, 12);
+}
+.Valle-Luna{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+.Valle-Luna .Title-Valle-Luna{
+
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.Valle-Luna .Text-Valle-Luna{
+    padding-top: 50px;
+    background-color: transparent;
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 80px;
+    font-size: 1.6rem;
+    text-align: justify;
+}
+
+.Illimani{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: red;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+.Illimani .Tittle-Illimani{
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+.Illimani .Text-Illimani{
+    padding-top: 50px;
+    background-color: transparent;
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 80px;
+    font-size: 1.6rem;
+    text-align: justify;
+}
+
+.Calle-Jaen{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: dodgerblue;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+
+.Calle-Jaen .Tittle-Calle-Jaen{
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.Calle-Jaen .Text-Calle-Jaen{
+    padding-top: 50px;
+    background-color: transparent;
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 80px;
+    font-size: 1.6rem;
+    text-align: justify;
+}
+
+.Iglesia-SanFrancisco{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+
+.Iglesia-SanFrancisco .Tittle-Iglesia-SanFrancisco{
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.Iglesia-SanFrancisco .Text-Iglesia-SanFrancisco{
+    padding-top: 50px;
+    background-color: transparent;
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 80px;
+    font-size: 1.6rem;
+    text-align: justify;
+}
+
+
+.Catedral-PlazaMurillo{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: red;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+
+.Catedral-PlazaMurillo .Tittle-Catedral-PlazaMurillo{
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.Catedral-PlazaMurillo .Text-Catedral-PlazaMurillo{
+    padding-top: 50px;
+    background-color: transparent;
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 80px;
+    font-size: 1.6rem;
+    text-align: justify;
+}
+
+.Feria-16-Julio{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: dodgerblue;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+
+.Feria-16-Julio .Tittle-Feria-16-Julio{
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.Feria-16-Julio .Text-Feria-16-Julio{
+    padding-top: 50px;
+    background-color: transparent;
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 80px;
+    font-size: 1.6rem;
+    text-align: justify;
+}

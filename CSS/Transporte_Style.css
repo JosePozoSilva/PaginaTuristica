@@ -1,0 +1,20 @@
+.Transporte{
+    margin-top: 0;
+    font-size: 1.5rem;
+    background-color: rgb(6, 121, 145);
+    width: 100%;
+    height: auto;
+    display: inline-block
+}
+
+
+
+
+
+.Transporte .img-Transporte{
+
+    float: inline-end;
+    width: 100%;
+    height: auto;
+    padding: 0;
+}
