@@ -8,13 +8,69 @@
 }
 
 
-
-
-
 .Transporte .img-Transporte{
 
     float: inline-end;
     width: 100%;
-    height: auto;
+    height: 730px;
     padding: 0;
 }
+
+
+.Medios-Transporte{
+
+    background-color: transparent;
+    text-align: center;
+    font-size: 8rem;
+    color: papayawhip;
+}
+
+.Medios-Transporte .Tittle-Medios-Transporte{
+
+    background-color: transparent;
+    text-align: center;
+    font-size: 8rem;
+    background-color: rgb(241, 169, 12);
+}
+
+.trasporte-minibus15{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+
+.trasporte-minibus15 .Tittle-Minus15{
+
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.img-Mini15{
+
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+.lista {
+
+    font-size: 1.8rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+.text-minibus15 {
+    padding: 5%;
+    font-size: 2.6rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+
+
+
