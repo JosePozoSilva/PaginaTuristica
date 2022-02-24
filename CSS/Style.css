@@ -1,0 +1,210 @@
+*{
+    background-color:rgb(255, 255, 255);
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: sans-serif;
+    background:#f1f1f1;
+}
+html{
+    font-size: 62.5%;
+}
+.Menu-Bar .menu{
+    background-color: black;
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    overflow: auto;
+    
+
+}
+.menu a.active{
+    background-color: #04aa6d;
+}
+.Menu-Bar li{
+  
+    display: inline;
+    float: left;
+    font-size: 1.6rem;
+}
+.Menu-Bar li a{
+    background-color: black;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.Menu-Bar li a:hover{
+    background-color: rgb(252, 252, 252);
+    color: black;
+}
+
+
+#carrusel-caja {
+    -moz-animation: automatizacion 15s infinite linear;
+    -o-animation: automatizacion 15s infinite linear;
+    -webkit-animation: automatizacion 15s infinite linear;
+    animation: automatizacion 15s infinite linear;
+
+    -webkit-transition: all 0.75s ease;
+    -moz-transition: all 0.75s ease;
+    -ms-transition: all 0.75s ease;
+    -o-transition: all 0.75s ease;
+    transition: all 0.75s ease;
+
+    height: auto;
+    width: 300%;
+}
+
+#carrusel-contenido {
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: left;
+}
+
+.banner .imagenes{
+    height: 600px;
+    width: 100%;
+}
+
+.carrusel-elemento {
+    float: left;
+    width: 33.333%;
+}
+
+@-moz-keyframes automatizacion {
+    0% {
+        margin-left: 0;
+    }
+    30% {
+        margin-left: 0;
+    }
+    35% {
+        margin-left: -100%;
+    }
+    65% {
+        margin-left: -100%;
+    }
+    70% {
+        margin-left: -200%;
+    }
+    95% {
+        margin-left: -200%;
+    }
+    100% {
+        margin-left: 0;
+    }
+}
+
+@-webkit-keyframes automatizacion {
+    0% {
+        margin-left: 0;
+    }
+
+    30% {
+        margin-left: 0;
+    }
+
+    35% {
+        margin-left: -100%;
+    }
+
+    65% {
+        margin-left: -100%;
+    }
+
+    70% {
+        margin-left: -200%;
+    }
+
+    95% {
+        margin-left: -200%;
+    }
+
+    100% {
+        margin-left: 0;
+    }
+}
+@keyframes automatizacion {
+    0% {
+        margin-left: 0;
+    }
+
+    30% {
+        margin-left: 0;
+    }
+
+    35% {
+        margin-left: -100%;
+    }
+
+    65% {
+        margin-left: -100%;
+    }
+
+    70% {
+        margin-left: -200%;
+    }
+
+    95% {
+        margin-left: -200%;
+    }
+
+    100% {
+        margin-left: 0;
+    }
+}
+
+
+.ciudad-maravilla{
+
+    
+    float: left;
+    width: 50%;
+}
+.img-ciudad-maravilla{
+    width: 50%;
+    height: auto;
+    padding: 0;
+    margin-left: 12%;
+    width: 80%;
+    
+}
+.cont1{
+    
+    
+    float: right;
+    height: auto;
+    width: 50%;
+    margin: 1cm;
+    padding: 1 cm;
+    background-color: #04aa6d;
+}
+.title-cont1 {
+    text-align: center;
+    margin: 2rem;
+    padding: 2rem;
+    font-size: 3.5rem;
+    background-color: transparent;
+}
+.descript-LP{
+
+    margin: 2rem;
+    padding: 2rem;
+    background-color: transparent;
+    font-size: 2.5rem;
+    font-family: 'Lucida Sans';
+
+}
+
+.video-promo{
+    
+    margin-top: 3vw;
+    width: 100%;
+    height: 1080px;
+    padding: 5%;
+    
+}

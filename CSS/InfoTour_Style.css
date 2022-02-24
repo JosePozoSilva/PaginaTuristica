@@ -1,0 +1,95 @@
+*{
+    background-color:rgb(255, 255, 255);
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: sans-serif;
+    background:#f1f1f1;
+}
+html{
+    font-size: 62.5%;
+}
+
+.Destino-Coroico{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block
+    
+}
+
+.Destino-Coroico .Title-Coroico{
+
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+    
+    
+}
+.Destino-Coroico .texto-coroico{
+    padding-top: 50px;
+    background-color: transparent;
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 80px;
+    font-size: 1.6rem;
+    text-align: justify;
+    
+}
+
+.Destino-Tiwanaku{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: rgb(42, 42, 133);
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block
+}
+.Destino-Tiwanaku .Title-Tiwanaku{
+     background-color: transparent;
+     text-align: center;
+     color: #f1f1f1;
+}
+.Destino-Tiwanaku .Text-Tiwanaku{
+
+    padding-top: 50px;
+    background-color: transparent;
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 80px;
+    font-size: 1.6rem;
+    text-align: justify;
+}
+
+.Destino-Copacabana{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: rgb(42, 42, 133);
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block
+}
+
+.Destino-Copacabana .Title-Copacabana{
+
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+.Destino-Copacabana .Text-Copacabana{
+
+    padding-top: 50px;
+    background-color: transparent;
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 80px;
+    font-size: 1.6rem;
+    text-align: justify;
+}
