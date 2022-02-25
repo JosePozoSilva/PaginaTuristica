@@ -33,6 +33,65 @@
     background-color: rgb(241, 169, 12);
 }
 
+
+
+.Transporte-Bus30{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+
+.Transporte-Bus30 .Title-Bus30{
+
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.img-BUS30{
+
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+.lista {
+
+    font-size: 1.8rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+.text-Bus30{
+    padding: 5%;
+    font-size: 2.6rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .trasporte-minibus15{
     padding: 50px;
     font-size: 1.5rem;
@@ -71,6 +130,189 @@
     text-align: justify;
     color: aliceblue;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Transporte-minivan10{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+
+.Transporte-minivan10 .Tittle-Minivan10{
+
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.img-minivan10{
+
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+.lista {
+
+    font-size: 1.8rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+.text-minivan10 {
+    padding: 5%;
+    font-size: 2.6rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+.Transporte-minivan7{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+
+.Transporte-minivan7 .Tittle-Minivan7{
+
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.img-minivan7{
+
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+.lista {
+
+    font-size: 1.8rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+.text-minivan7 {
+    padding: 5%;
+    font-size: 2.6rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+
+.Transporte-captur4{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+
+.Transporte-captur4 .Title-Captur4{
+
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.img-captur4{
+
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+.lista {
+
+    font-size: 1.8rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+.text-captur4{
+    padding: 5%;
+    font-size: 2.6rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+
+
+
+
+
+.Transporte-Jimny2{
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+
+.Transporte-Jimny2 .Title-Jimny2{
+
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.img-Jimny2{
+
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+.lista {
+
+    font-size: 1.8rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+.text-Jimny2{
+    padding: 5%;
+    font-size: 2.6rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+
+
 
 
 
