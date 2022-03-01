@@ -1,0 +1,109 @@
+.Atracciones{
+
+    background-color: transparent;
+    text-align: center;
+    font-size: 8rem;
+    color: rgb(182, 165, 137);
+}
+
+.Totora-Tikiqaqa{
+
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+.Totora-Tikiqaqa .Tittle-Totora{
+    
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.Totora-Tikiqaqa .img-totora{
+    padding-top: 20px;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+
+.Totora-Tikiqaqa .texto-totora{
+    padding: 5%;
+    font-size: 2.6rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+
+
+
+.zippline-yungas{
+
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 30%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+.zippline-yungas .Tittle-Zipline-yungas{
+    
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.zippline-yungas .img-zipline-yungas{
+    padding-top: 20px;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+
+.zippline-yungas .texto-zipline-yungas{
+    padding: 5%;
+    font-size: 2.6rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+
+
+.Senderimo-Sorata{
+
+    padding: 50px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 25%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+.Senderimo-Sorata .Tittle-Senderimo-Sorata{
+    
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.Senderimo-Sorata .img-Senderimo-Sorata{
+    padding-top: 20px;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+
+.Senderimo-Sorata .texto-Senderimo-Sorata{
+    padding: 5%;
+    font-size: 2.6rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}

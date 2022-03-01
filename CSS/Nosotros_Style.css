@@ -1,0 +1,45 @@
+.banner-Mision{
+    
+    margin-left: 50%;
+    width: 50%;
+    background-color: darkorange;
+    height: 300px;
+}
+
+.banner-Mision .Tittle-Mision{
+    background-color: transparent;
+    float: left;
+    font-size: 10.6rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+.banner-Mision .Text-Mision{
+    padding-top: 5%;
+    float: right;
+    background-color: transparent;
+    
+    width: 50%;
+    font-size: 1.9rem;
+    text-align: justify;
+  
+}
+.banner-Vision{
+    
+    margin: 0;
+    width: 50%;
+    background-color: deeppink;
+    height: 300px;
+}
+.banner-Vision .Tittle-Vision{
+    background-color: transparent;
+    float:left;
+    font-size: 10.6rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.banner-Vision .Text-Vision{
+
+    float: left;
+    background-color: transparent;
+    font-size: 1.9rem;
+}

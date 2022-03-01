@@ -1,0 +1,160 @@
+.Estadia{
+    margin-top: 0;
+    font-size: 1.5rem;
+    background-color: rgb(6, 121, 145);
+    width: 100%;
+    height: auto;
+    display: inline-block
+}
+
+
+.Estadia .img-Hospedaje{
+
+    float: inline-end;
+    width: 100%;
+    height: 730px;
+    padding: 0;
+}
+
+
+.Sitios-hospedajes{
+
+    background-color: transparent;
+    text-align: center;
+    font-size: 8rem;
+    color: papayawhip;
+}
+
+.Sitios-hospedajes .Tittle-Sitios-Hopsedajes{
+
+    background-color: transparent;
+    text-align: center;
+    font-size: 8rem;
+    background-color: rgb(241, 169, 12);
+}
+
+.Habitacion-Simple{
+    padding: 30px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 30%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+
+.Habitacion-Simple .Tittle-Habitacion-simple{
+    
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.Habitacion-Simple .Img-HabitacionSimple{
+    padding-top: 20px;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+
+.Habitacion-Simple .text-Habitacion-Simple{
+    padding: 5%;
+    font-size: 2.6rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+
+
+
+
+
+.Habitacion-Doble{
+    padding: 30px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 30%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+.Habitacion-Doble .Tittle-Habitacion-Doble{
+    
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+.Habitacion-Doble .Img-HabitacionDoble{
+    padding-top: 20px;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+.Habitacion-Doble .text-Habitacion-Doble{
+    padding: 5%;
+    font-size: 2.6rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+.Habitacion-DobleSuperior{
+    padding: 30px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 30%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+.Habitacion-DobleSuperior .Tittle-Habitacion-DobleSuperior{
+    
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+.Habitacion-DobleSuperior .Img-HabitacionDobleSuperior{
+    padding-top: 20px;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+.Habitacion-DobleSuperior .text-Habitacion-DobleSuperior{
+    padding: 5%;
+    font-size: 2.6rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
+
+.Habitacion-Triple{
+    padding: 30px;
+    font-size: 1.5rem;
+    background-color: green;
+    width: 30%;
+    height: auto;
+    margin: 3%;
+    display: inline-block;
+    border-radius: 10%;
+}
+.Habitacion-Triple .Tittle-Habitacion-Triple{
+    
+    background-color: transparent;
+    text-align: center;
+    color: #f1f1f1;
+}
+.Habitacion-Triple .Img-HabitacionTriple{
+    padding-top: 20px;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+.Habitacion-Triple .text-Habitacion-Triple{
+    padding: 5%;
+    font-size: 2.6rem;
+    background-color: transparent;
+    text-align: justify;
+    color: aliceblue;
+}
