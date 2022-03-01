@@ -3,7 +3,7 @@
     margin-left: 50%;
     width: 50%;
     background-color: darkorange;
-    height: 300px;
+    height: 600px;
 }
 
 .banner-Mision .Tittle-Mision{
@@ -11,35 +11,41 @@
     float: left;
     font-size: 10.6rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
+    color: aliceblue;
 
 }
 .banner-Mision .Text-Mision{
-    padding-top: 5%;
+    padding-top: 15%;
+    margin-right: 5%;
     float: right;
     background-color: transparent;
-    
     width: 50%;
     font-size: 1.9rem;
     text-align: justify;
+    color: aliceblue;
   
 }
 .banner-Vision{
     
-    margin: 0;
+    margin-top: 100px;
     width: 50%;
     background-color: deeppink;
-    height: 300px;
+    height: 600px;
 }
 .banner-Vision .Tittle-Vision{
+    margin-top: 50px;
     background-color: transparent;
     float:left;
     font-size: 10.6rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
 }
 .banner-Vision .Text-Vision{
-
+    padding-top: 15%;
     float: left;
     background-color: transparent;
     font-size: 1.9rem;
+    text-align: justify;
+    margin: 5%;
+    color: antiquewhite;
 }
